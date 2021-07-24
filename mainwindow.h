@@ -22,9 +22,9 @@ public:
 
 private:
     Ui::MainWindow *ui;
-    int num;
-    void createControls(const QString &title);
-    int m_currentValue;
+//    int num;
+//    void createControls(const QString &title);
+//    int m_currentValue;
 };
 
 #endif // MAINWINDOW_H
